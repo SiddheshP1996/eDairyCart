@@ -23,7 +23,7 @@
 8] Now as per the above image click on the link generated stating : "Starting development server at http://127.0.0.1:8000/" and start exploring the project and it's smooothness in it's dynamic nature of event handling.
 <br><br>
 
-**Provide Your Valuable Feedback on the Project**
+**Provide Your Valuable Feedback on the Project.**
 <br><br>
-**Thank You**
+**Thank You !!**
 <br><br>
