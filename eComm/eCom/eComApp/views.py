@@ -42,7 +42,7 @@ def contact(request):
 def custom_logout(request):
     request.session.flush()
     logout(request)
-    return redirect('login')
+    return redirect('home')
 
 # @method_decorator(login_required, name = 'dispatch')
 class CategoryView(View):
